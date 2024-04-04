@@ -1,6 +1,6 @@
 #include <iostream>
+#include <torch/torch.h>
 
-int main() {
-    std :: cout << "This is a test" << std :: endl;
-    return 0;
+int main(){
+    
 }
